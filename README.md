@@ -40,7 +40,7 @@ A fun, browser-based "Whack-a-Mole" game built with HTML, CSS, and JavaScript. I
 
 2. **Navigate into the project directory**
 ```bash
-cd Whake-A-Mole
+   cd Whake-A-Mole
 ```
 
 3. **Ensure all files (images, HTML, CSS, JS) are present in the same directory.** 🗂️
